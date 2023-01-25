@@ -1,0 +1,10 @@
+{
+    "id": "kadw.saintcanpassage",
+    "name": "Saint Can Passage",
+    "version": "1.0",
+    "authors": "KADW",
+    "description": "Allows Saint to use Passage. For all the lazy players out there.",
+    "requirements": [],
+    "requirements_names": [],
+    "checksum_override_version": false
+}
