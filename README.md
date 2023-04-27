@@ -4,6 +4,8 @@ by KADW (KADW#4425)
 
 Version 1.0
 
+EDIT: This mod currently does not work. I may or may not fix it later.
+
 A small mod for Rain World 1.9 that allows Saint to use passages. For all the lazy players out there.
 
 Available through Steam Workshop/Remix at [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=2923294502), so get it from there. Commented source files are in this repo.
